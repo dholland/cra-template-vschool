@@ -1,12 +1,12 @@
 {
 	"name": "cra-template-vschool-assignments",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"keywords": [
 		"react",
 		"create-react-app",
 		"template"
 	],
-	"description": "Danny's VSchool template for Create React App.",
+	"description": "A Simple V School assignments template using Create React App.",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/dholland/cra-template-vschool"

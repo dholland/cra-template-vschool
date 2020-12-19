@@ -1,13 +1,25 @@
 # cra-template-vschool-assignment
 
-This is a simple template build from the default create react app that simply uses a new `src` folder with a basic container and styling for doing vschool assignments.
+This is a simple template built from the default create react app that uses a new `src` folder with a basic container and styling for doing vschool assignments.
 
-To use this template run the following command: 
 
+### Install
 ```bash
 npx create-react-app <your-app-name> --template vschool-assignments
 ```
 
+### File Structure: 
+```
+src
+├── App.css
+├── App.js
+├── components
+│  ├── Footer.js
+│  ├── Header.js
+│  └── Main.js
+├── index.css
+└── index.js
+```
 
 For more information, please refer to:
 
