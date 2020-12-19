@@ -1,5 +1,5 @@
 {
-	"name": "cra-template-vschool",
+	"name": "cra-template-vschool-assignments",
 	"version": "1.0.0",
 	"keywords": [
 		"react",
@@ -7,12 +7,16 @@
 		"template"
 	],
 	"description": "Danny's VSchool template for Create React App.",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dholland/cra-template-vschool"
+	},
 	"license": "MIT",
 	"engines": {
 		"node": ">=10"
 	},
 	"bugs": {
-		"url": "https://github.com/facebook/create-react-app/issues"
+		"url": "https://github.com/dholland/cra-template-vschool/issues"
 	},
 	"files": [
 		"template",

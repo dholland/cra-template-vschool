@@ -1,8 +1,13 @@
-# cra-template
+# cra-template-vschool-assignment
 
-This is the official base template for [Create React App](https://github.com/facebook/create-react-app).
+This is a simple template build from the default create react app that simply uses a new `src` folder with a basic container and styling for doing vschool assignments.
 
-If you don't specify a template (for example, `--template typescript`), this template will be used by default.
+To use this template run the following command: 
+
+```bash
+npx create-react-app <your-app-name> --template vschool-assignments
+```
+
 
 For more information, please refer to:
 
